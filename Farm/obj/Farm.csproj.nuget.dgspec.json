@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lisahalvorsen/Desktop/Lisa Halvorsen/Utdanning/Get Academy/Oppgaver/Emne 3/Farm/Farm/Farm.csproj": {}
+  },
+  "projects": {
+    "/Users/lisahalvorsen/Desktop/Lisa Halvorsen/Utdanning/Get Academy/Oppgaver/Emne 3/Farm/Farm/Farm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lisahalvorsen/Desktop/Lisa Halvorsen/Utdanning/Get Academy/Oppgaver/Emne 3/Farm/Farm/Farm.csproj",
+        "projectName": "Farm",
+        "projectPath": "/Users/lisahalvorsen/Desktop/Lisa Halvorsen/Utdanning/Get Academy/Oppgaver/Emne 3/Farm/Farm/Farm.csproj",
+        "packagesPath": "/Users/lisahalvorsen/.nuget/packages/",
+        "outputPath": "/Users/lisahalvorsen/Desktop/Lisa Halvorsen/Utdanning/Get Academy/Oppgaver/Emne 3/Farm/Farm/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lisahalvorsen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/lisahalvorsen/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
