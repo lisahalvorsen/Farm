@@ -173,5 +173,4 @@ public class FarmManager
         Console.WriteLine("You're welcome back to the farm any time :D");
         Environment.Exit(0);
     }
-    
 }
